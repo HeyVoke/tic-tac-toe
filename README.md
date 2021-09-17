@@ -1,2 +1,3 @@
 # tic-tac-toe
-My first ever project
+After spending just over a month learning Ruby with App Academy Open, I have produced my first project! While this was a guided project I have gone further than the instructions by creating a grid layout instead of printing an array and by including more dialogue/instructions to the game. If you would like to read the guide that I followed and get some explanation for the differences between the 3 versions of the game, click here: https://open.appacademy.io/learn/full-stack-online/software-engineering-foundations/tictactoe-project
+I'm really enjoying my coding journey and am looking forward to making even more projects!
