@@ -70,14 +70,3 @@ class Board
     end
 
 end
-
-
-# puts "     |     |     "
-# puts "     |     |     "
-# puts "_____|_____|_____"
-# puts "     |     |     "
-# puts "     |  X  |     "
-# puts "_____|_____|_____"
-# puts "     |     |     "
-# puts "     |     |     "
-# puts "     |     |     "
